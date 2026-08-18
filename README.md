@@ -5,3 +5,4 @@
 **📌 Projects**<br>• Personified Portfolio – Application designed for artists to showcase their digital artworks.
 <br>• Crop Prices Prediction – Machine learning for agricultural market trends
 <br>• Road Condition Monitoring System – Distinguish between good, bad and potholes
+<img src="somebody-else-ezgif.com-video-to-gif-converter.gif" width="45%"> <img src="walkanimation-ezgif.com-video-to-gif-converter.gif" width="45%">
