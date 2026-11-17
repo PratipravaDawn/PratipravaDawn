@@ -6,9 +6,7 @@
 
 **I'm Pratiprava Dawn** : An Engineer who loves building things, exploring new technologies, and turning ideas into reality.
 
-![Animation 1](somebody-else-ezgif.com-video-to-gif-converter.gif)
-
-![Animation 2](walkanimation-ezgif.com-video-to-gif-converter.gif)
+<img src="somebody-else-ezgif.com-video-to-gif-converter.gif" width="20%"> <img src="walkanimation-ezgif.com-video-to-gif-converter.gif" width="20%">
 
 **What You'll Find Here:** <br>
 Personal projects 🧩>> Python applications and tools ⚙️>> Creative experiments 🎮>> Interesting ideas and implementations 💡
