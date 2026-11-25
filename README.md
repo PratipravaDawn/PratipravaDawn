@@ -1,6 +1,6 @@
 
 
-![Welcome Banner](https://github.com/PratipravaDawn/PratipravaDawn/blob/main/Simple%20Work%20LinkedIn%20Banner.png)
+![Welcome Banner](banner.png)
 
 ### Hey there, Welcome to My GitHub!
 
